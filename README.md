@@ -1,9 +1,7 @@
 <!-- Animated Header -->
 # 💫 About Me
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Hey+there,+I'm+Jatin!;⚡+MERN+Stack+Developer;🤖+AI+%26+ML+Engineer;🌐+Future-Ready+Tech+Innovator" alt="Typing SVG" />
-</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Impact&size=50&pause=1000&color=40C878&center=true&vCenter=true&width=900&lines=🚀+Hey+there,+I'm+Jatin!;🌐+Future-Ready+Tech+Innovator" alt="Typing SVG" />
 
 ---
 
@@ -13,8 +11,6 @@
 - 🌱 **Learning journey:** <span style="color:#1E90FF">MLOps & AGI Workflows</span>  
 - 💬 **Ask me about:** <span style="color:#FF69B4">Anything Tech — MERN, AI/ML, Cloud</span>  
 - ⚡ **Fun fact:** Thanks to Indian engineers, *jugaad* isn’t just a hack anymore — it’s a globally recognized word in dictionaries 🌍. From fixing fans with pens to turning scooters into family SUVs, we basically made improvisation a national export 🚀.  
-
----
 
 ---
 
@@ -64,27 +60,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)  
 
----
-
-# 🏆 GitHub Trophies
-<p align="center">
-  <img src=" https://github-profile-trophy.vercel.app/?username=hovering-ace&theme=juicyfresh&margin-h=15&row=2&column=3" />
-</p>
-
----
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Hovering-Ace&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>  
 ![](https://nirzak-streak-stats.vercel.app/?user=Hovering-Ace&theme=shadow_blue&hide_border=false)<br/>  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hovering-Ace&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
----
 
-# 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/Hovering-Ace/Hovering-Ace/output/github-contribution-grid-snake.svg)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Hovering-Ace&icon=4&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in )
