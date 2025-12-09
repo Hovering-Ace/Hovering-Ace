@@ -1,14 +1,20 @@
 <!-- Animated Header -->
+# 💫 About Me
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+there,+I'm+Jatin+👋;MERN+Stack+Developer+⚡;AI+%26+ML+Engineer+🤖;Future-Ready+Tech+Innovator+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Hey+there,+I'm+Jatin!;⚡+MERN+Stack+Developer;🤖+AI+%26+ML+Engineer;🌐+Future-Ready+Tech+Innovator" alt="Typing SVG" />
 </h1>
 
-# 💫 About Me:
-🔭 I’m currently working on **Deep Learning** <br>  
-👯 I’m looking to collaborate on **Open Source and Innovative projects** <br>  
-🌱 I’m currently learning **MLOps** <br>  
-💬 Ask me about **anything tech** <br>  
-⚡ Thanks to Indian engineers, *jugaad* isn’t just a hack anymore — it’s a globally recognized word in dictionaries 🌍. From fixing fans with pens to turning scooters into family SUVs, we basically made improvisation a national export 🚀. <br>  
+---
+
+### 🎨 Highlights
+- 🔭 **Currently working on:** <span style="color:#FFD700">Deep Learning</span>  
+- 👯 **Collaboration goals:** <span style="color:#00FF7F">Open Source & Innovative Projects</span>  
+- 🌱 **Learning journey:** <span style="color:#1E90FF">MLOps & AGI Workflows</span>  
+- 💬 **Ask me about:** <span style="color:#FF69B4">Anything Tech — MERN, AI/ML, Cloud</span>  
+- ⚡ **Fun fact:** Thanks to Indian engineers, *jugaad* isn’t just a hack anymore — it’s a globally recognized word in dictionaries 🌍. From fixing fans with pens to turning scooters into family SUVs, we basically made improvisation a national export 🚀.  
+
+---
 
 ---
 
@@ -62,7 +68,7 @@
 
 # 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hovering-Ace&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src=" https://github-profile-trophy.vercel.app/?username=hovering-ace&theme=juicyfresh&margin-h=15&row=2&column=3" />
 </p>
 
 ---
@@ -75,7 +81,7 @@
 ---
 
 # 🐍 Contribution Snake
-![Snake animation](https://github.com/Hovering-Ace/Hovering-Ace/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Hovering-Ace/Hovering-Ace/output/github-contribution-grid-snake.svg)
 
 ---
 
